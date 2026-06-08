@@ -1,5 +1,6 @@
 # IMC-Prosperity-4-
 
+
 This folder contains all my submissions to the IMC Prosperity 4 quantitative trading challenge algorithmic challenges from rounds 1 through 5. Code was also used for assistance in the manual challenges which can be found in the ```backtest.ipynb``` file in the corresponding rounds folder. 
 
 ## Import Notes 

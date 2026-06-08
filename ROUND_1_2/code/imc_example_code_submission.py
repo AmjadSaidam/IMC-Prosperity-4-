@@ -1,4 +1,4 @@
-from ROUND_1_2.code_round_1.imc_example_code_book import OrderDepth, UserId, TradingState, Order
+from ROUND_1_2.code.imc_example_code_book import OrderDepth, UserId, TradingState, Order
 from typing import List
 
 class Trader:

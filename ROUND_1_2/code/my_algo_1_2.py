@@ -1,4 +1,4 @@
-from ROUND_1_2.code_round_1.imc_example_code_book import OrderDepth, UserId, TradingState, Order
+from code.imc_example_code_book import OrderDepth, UserId, TradingState, Order
 #from datamodel import OrderDepth, UserId, TradingState, Order # uncomment for submission
 from typing import List
 # valid imports 
